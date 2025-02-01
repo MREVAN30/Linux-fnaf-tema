@@ -6,17 +6,14 @@
     <title>Como Personalizar o Termux com Tema Golden Freddy (FNAF)</title>
 </head>
 <body>
-   <h1> cmd para a execução</h1>h1>
+    <h1>Comandos para Execução</h1>
 
-    <code>
-cd fnaf tema
-    </code>
-    <code>
-chmod fnaftema.sh
-    </code>
-<code>
-./fnaftema.sh
-</code>
-    
+    <p>Para executar o script, siga os passos abaixo:</p>
+
+    <pre><code>cd fnaf-tema</code></pre>
+    <pre><code>chmod +x fnaftema.sh</code></pre>
+    <pre><code>./fnaftema.sh</code></pre>
+
+    <p>Pronto! O tema Golden Freddy será aplicado automaticamente.</p>
 </body>
 </html>
